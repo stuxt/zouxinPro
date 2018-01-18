@@ -1,11 +1,10 @@
-//V1.1 版本数据格式
 {
   "list": [
     {
-      src: "http://blog.isbox.me/zouxinPro/images/vol2.jpeg"
+      "src": "http://blog.isbox.me/zouxinPro/images/vol2.jpeg"
     },
     {
-      src: "http://blog.isbox.me/zouxinPro/images/vol1.jpeg"
+      "src": "http://blog.isbox.me/zouxinPro/images/vol1.jpeg"
     }
   ]
 }
