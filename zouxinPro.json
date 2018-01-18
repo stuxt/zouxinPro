@@ -1,6 +1,6 @@
 //V1.1 版本数据格式
 {
-  imglist:[
+  "list":[
     "http://blog.isbox.me/zouxinPro/images/vol1.jpeg"
   ]
 }
